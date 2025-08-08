@@ -37,7 +37,7 @@
 
 ## 🌟 Favorite Projects
 
-- [WAD-Assignment](#)  
+- [WAD-Assignment](https://github.com/Yongqx-0313/WAD-Assignment)  
   <sup>Web Application Development project—showcasing full-stack skills</sup>
 - [OS-calculator](#)  
   <sup>A smart calculator, inspired by operating system concepts</sup>
